@@ -1,5 +1,3 @@
-# OCR
-# OCR with EAST Text Detection and EMNIST Character Recognition
 # OCR with EAST Text Detection and EMNIST Character Recognition
 
 [Project Description]
